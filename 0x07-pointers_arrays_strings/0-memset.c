@@ -4,7 +4,7 @@
  *
  * @s: pointer to the memory area to be filled.
  * @b: the byte with which to fill s.
- * @n: number of bytes to fill.
+ * @n: number of bytes to fill
  *
  * Return: s.
  */
