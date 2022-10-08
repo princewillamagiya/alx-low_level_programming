@@ -8,6 +8,7 @@
 void _puts(char *str)
 {
 	int i = 0;
+
 	while (str[i])
 	{
 		_putchar(str[i]);
@@ -66,6 +67,7 @@ void print_int(unsigned long int n)
 int main(int argc, char const *argv[])
 {
 	(void)argc;
+
 	if (argc != 3)
 	{
 		_puts("Error ");
